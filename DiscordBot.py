@@ -46,4 +46,4 @@ async def on_message(message):
         
 client.loop.create_task(my_background_task())
 
-client.run("NDAxMzgwNDI5MzQyNTcyNTU1.DTqD7w.CcEORbnQmjWNxDpyv1PxSvUxQkE")
+client.run("NDAxMzgwNDI5MzQyNTcyNTU1.DTseKw.BNRX2aSovvDj8RD9LUT5UyZLzTY")
